@@ -1,6 +1,6 @@
 import pygame
 import accessories as acc
-import computer_brain as algo
+import computer_algo as algo
 
 pygame.init()
 
